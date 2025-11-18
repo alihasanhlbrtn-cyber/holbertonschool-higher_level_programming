@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#accepting inputs dynamically
+# accepting inputs dynamically
 import sys
 if __name__ == "__main__":
     res = 0
