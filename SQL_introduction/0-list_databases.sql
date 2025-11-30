@@ -1,2 +1,2 @@
---just warming up
+-- just warming up
 SHOW DATABASES;
