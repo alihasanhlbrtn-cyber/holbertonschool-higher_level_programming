@@ -1,0 +1,2 @@
+-- Score too love
+DELETE FROM second_table WHERE score <= 5;
